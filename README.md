@@ -21,6 +21,7 @@ I'm a computer science student passionate about:
 ---
 
 ### 🛠 **Highlighted Projects**
+-[Assistant AI with Fine-Tuning Model](#): Fine-Tuned with instruction tuning which using LoRa targeting FFN (Base model: Llama3.2 3B).
 - [OCR AI Project](#): Deep-learning based OCR model.
 - [AES-CBC Security Project](#): AES encryption & CBC tampering detection.
 - [Flask Security](#): Web security experiments and exploitation challenges.
